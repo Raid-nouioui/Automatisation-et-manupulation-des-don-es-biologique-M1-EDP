@@ -1,5 +1,5 @@
 # Automatisation-et-manupulation-des-don-es-biologique-M1-EDP 
-## Université de Batna 2 – Faculté des Sciences  
+## Université de Batna 2 – Faculté de SNV  
 ### Master 1 EDP – Logiciels Libres et Open Source  
 
 ---
